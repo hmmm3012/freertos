@@ -1,0 +1,4 @@
+[submodule "Source"]
+	path = Source
+	url = https://github.com/hmmm3012/FreeRTOS-Kernel.git
+	branch = sg2002-dev
